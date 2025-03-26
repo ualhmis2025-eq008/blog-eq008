@@ -1,13 +1,12 @@
+---
 layout: default
 name: David Granados Pérez
 nickname: dgp336
 avatar: /assets/img/david.jpg
 github: https://github.com/dgp336
 
-🌟 David Granados Pérez 🌟
-
 ---
-
+🌟 David Granados Pérez 🌟
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/david.png" alt="David Granados Pérez" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
