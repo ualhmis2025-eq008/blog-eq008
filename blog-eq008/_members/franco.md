@@ -1,13 +1,16 @@
 ---
 layout: default
 name: Franco Sergio Pereyra
-nickname: aom387ISO
-avatar: /assets/img/antonio.png
+nickname: ualfsp323
+avatar: /assets/img/franco.png
 github: https://github.com/ualfsp323
 ---
 # 🌟 Franco Sergio Pereyra 🌟
 
 ---
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/franco.png" alt="Franco Sergio Pereyra" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</p>
 
 ## 🚶‍♂️ **Sobre Mí**
 
